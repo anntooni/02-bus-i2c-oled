@@ -4,7 +4,7 @@
 #include <Adafruit_SSD1306.h>
 
 #define SCREEN_WIDTH 128
-#define SCREEN_HEIGHT 64
+#define SCREEN_HEIGHT 32
 #define OLED_RESET_PIN -1
 #define OLED_I2C_ADDR 0x3C
 #define SERIAL_BAUD 115200
